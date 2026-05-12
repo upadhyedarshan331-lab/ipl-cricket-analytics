@@ -25,7 +25,9 @@ of IPL using Python, MySQL, Power BI and Excel.
 
 ipl-cricket-analytics/
 ├── scripts/
+
 │   ├── 00_check_columns.py
+
 │   ├── 01_data_cleaning.py
 │   ├── 03_load_to_mysql.py
 │   └── 05_eda_analysis.py

@@ -1,3 +1,6 @@
+![Banner](reports/chart1_top_run_scorers.png)
+
+
 # 🏏 IPL Cricket Analytics Project
 
 End to end cricket analytics project analyzing 17 seasons 

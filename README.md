@@ -1,5 +1,3 @@
-![Banner](reports/chart1_top_run_scorers.png)
-
 
 # 🏏 IPL Cricket Analytics Project
 
